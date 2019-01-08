@@ -1,0 +1,104 @@
+{
+"products": [
+{
+  "id": 1,
+  "name": "Japanese macaque",
+  "category": "Maroon"
+}, {
+  "id": 2,
+  "name": "Antelope, sable",
+  "category": "Teal"
+}, {
+  "id": 3,
+  "name": "Least chipmunk",
+  "category": "Goldenrod"
+}, {
+  "id": 4,
+  "name": "American black bear",
+  "category": "Crimson"
+}, {
+  "id": 5,
+  "name": "Heron, green-backed",
+  "category": "Yellow"
+}, {
+  "id": 6,
+  "name": "Snake-necked turtle",
+  "category": "Indigo"
+}, {
+  "id": 7,
+  "name": "Possum, golden brush-tailed",
+  "category": "Crimson"
+}, {
+  "id": 8,
+  "name": "American alligator",
+  "category": "Maroon"
+}, {
+  "id": 9,
+  "name": "Buffalo, african",
+  "category": "Aquamarine"
+}, {
+  "id": 10,
+  "name": "Gecko, ring-tailed",
+  "category": "Turquoise"
+}, {
+  "id": 11,
+  "name": "Tern, royal",
+  "category": "Purple"
+}, {
+  "id": 12,
+  "name": "Bateleur eagle",
+  "category": "Green"
+}, {
+  "id": 13,
+  "name": "Common zorro",
+  "category": "Pink"
+}, {
+  "id": 14,
+  "name": "Burrowing owl",
+  "category": "Crimson"
+}, {
+  "id": 15,
+  "name": "White-browed sparrow weaver",
+  "category": "Aquamarine"
+}, {
+  "id": 16,
+  "name": "Hartebeest, coke's",
+  "category": "Indigo"
+}, {
+  "id": 17,
+  "name": "Rock dove",
+  "category": "Indigo"
+}, {
+  "id": 18,
+  "name": "King vulture",
+  "category": "Khaki"
+}, {
+  "id": 19,
+  "name": "Australian magpie",
+  "category": "Blue"
+}, {
+  "id": 20,
+  "name": "Golden-mantled ground squirrel",
+  "category": "Teal"
+}, {
+  "id": 21,
+  "name": "Asian red fox",
+  "category": "Green"
+}, {
+  "id": 22,
+  "name": "Red-necked phalarope",
+  "category": "Green"
+}, {
+  "id": 23,
+  "name": "Dove, little brown",
+  "category": "Orange"
+}, {
+  "id": 24,
+  "name": "Mountain goat",
+  "category": "Goldenrod"
+}, {
+  "id": 25,
+  "name": "Tiger snake",
+  "category": "Goldenrod"
+}
+]}
