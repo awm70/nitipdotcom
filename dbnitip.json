@@ -1,0 +1,28 @@
+{
+products": [
+{"id":1,"name":"Stork, white-necked","category":"Maroon"},
+{"id":2,"name":"Sifaka, verreaux's","category":"Orange"},
+{"id":3,"name":"Racer, american","category":"Goldenrod"},
+{"id":4,"name":"Racer, american","category":"Mauv"},
+{"id":5,"name":"Coqui francolin","category":"Indigo"},
+{"id":6,"name":"Long-crested hawk eagle","category":"Aquamarine"},
+{"id":7,"name":"Denham's bustard","category":"Mauv"},
+{"id":8,"name":"Wallaroo, common","category":"Fuscia"},
+{"id":9,"name":"Springhare","category":"Turquoise"},
+{"id":10,"name":"Osprey","category":"Orange"},
+{"id":11,"name":"Superb starling","category":"Aquamarine"},
+{"id":12,"name":"Cormorant, flightless","category":"Orange"},
+{"id":13,"name":"Asiatic jackal","category":"Aquamarine"},
+{"id":14,"name":"Tawny eagle","category":"Yellow"},
+{"id":15,"name":"Stilt, black-winged","category":"Maroon"},
+{"id":16,"name":"Dolphin, common","category":"Aquamarine"},
+{"id":17,"name":"Sally lightfoot crab","category":"Teal"},
+{"id":18,"name":"Squirrel, eastern fox","category":"Puce"},
+{"id":19,"name":"Starfish, crown of thorns","category":"Khaki"},
+{"id":20,"name":"Dove, emerald-spotted wood","category":"Green"},
+{"id":21,"name":"Giant girdled lizard","category":"Khaki"},
+{"id":22,"name":"Hoffman's sloth","category":"Goldenrod"},
+{"id":23,"name":"Antelope, sable","category":"Puce"},
+{"id":24,"name":"Pine squirrel","category":"Mauv"},
+{"id":25,"name":"Vulture, bengal","category":"Green"}
+]}
